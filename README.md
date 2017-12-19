@@ -5,6 +5,8 @@ value.
 
 ## Status
 
+THIS MOD HAS A [NEW HOME](https://github.com/Geend/long-reach)
+
 I am not maintaining this mod any more. If someone wants to fork and maintain
 the mod, I'm happy to update this readme page to point to such a fork.
 Please make a few commits first so I can know that you're serious, though.
